@@ -1,0 +1,9 @@
+[package]
+name = "rust-emergency-compliment"
+version = "0.1.0"
+authors = ["Sviatoslav Sydorenko <wk@sydorenko.org.ua>"]
+
+[dependencies]
+pencil = "=0.3.0"
+pick-one = "=1.0.1"
+motivations = "=1.1.2"
